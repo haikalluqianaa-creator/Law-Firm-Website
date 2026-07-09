@@ -1,5 +1,6 @@
 # Law-Firm-Website
-This website was created by a group of law students who are learning to build simple yet elegant and creative websites.
+<title> LawFirm Website | Aleitha Laws </title>
+
 <style>
     :root {
       --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
